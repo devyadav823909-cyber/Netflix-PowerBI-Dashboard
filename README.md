@@ -4,25 +4,17 @@ Interactive Netflix Dashboard built in Power BI using Netflix Movies and TV Show
 
 ## Python Analysis Notebook
 
-View the complete notebook:
+[Open Python Notebook](./netflix%20analysis%20dashboard.ipynb)
 
-[Netflix Analysis Notebook](./netflix%20analysis%20dashboard.ipynb)
-
----
-
-## Dashboard Preview
+## Power BI Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
----
+## Files Included
 
-## Project Description
+- netflix analysis dashboard.ipynb
+- Netflix.pbix
 
-Interactive Netflix Dashboard built in Power BI using Netflix Movies and TV Shows dataset. This dashboard provides insights into total shows, movies, TV shows, ratings, release years, countries, directors, and content distribution through interactive visualizations and filters.
+## Description
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Power BI
-- DAX
+Netflix Data Analysis project using Python and Power BI. The notebook performs data cleaning, EDA, and visualization, while the Power BI dashboard provides interactive insights into Movies, TV Shows, Ratings, Countries, Directors, and Release Years.
